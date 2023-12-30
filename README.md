@@ -1,8 +1,17 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# PokeArchive
 
-Currently, two official plugins are available:
+A React app that shows all different 898 Pokemons with detailts such as Abilities, Types, Generations, Height, Weight. You Can Add Pokemons to Favorites and Watched Lists.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Pokemones data was retrived from [PokeApi](https://pokeapi.co/)
+
+
+## Screenshots
+
+![App Screenshot](https://i.ibb.co/fnLwBhT/Screenshot-2023-12-30-181521.png)
+
+
+![App Screenshot](https://i.ibb.co/L1TwbZb/Screenshot-2023-12-30-182249.png)
+
+
+![App Screenshot](https://i.ibb.co/Mfr80KB/Screenshot-2023-12-30-183013.png" )
